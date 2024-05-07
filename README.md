@@ -8,9 +8,13 @@
 
 ### a website in vercel
 
-live project: [my-portofolio-one-pearl.vercel.app](my-portofolio-one-pearl.vercel.app)
+project live: [https://my-portofolio-git-master-alis-projects-1be8f768.vercel.app/](https://my-portofolio-git-master-alis-projects-1be8f768.vercel.app/)
 
-## react.js Portofolio 🌟
+## react.js resume builder 🌟
+
+- choose the template 
+- Edit the `data.js` file with your personal information and delete the topic if you need in the resume template.
+- Generate a CV in PDF format .
 
 ## Getting Started 🚀
 
