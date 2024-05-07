@@ -8,13 +8,9 @@
 
 ### a website in vercel
 
-This section has moved here: [https://cv-builder-newversion.vercel.app/](https://cv-builder-newversion.vercel.app/)
+This section has moved here: [my portofolio](my-portofolio-one-pearl.vercel.app)
 
-## react.js resume builder 🌟
-
-- choose the template 
-- Edit the `data.js` file with your personal information and delete the topic if you need in the resume template.
-- Generate a CV in PDF format .
+## react.js Portofolio 🌟
 
 ## Getting Started 🚀
 
