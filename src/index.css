@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .flex-center {
+    @apply flex justify-center items-center;
+  }
+}
+@layer base {
+  .body {
+    font-family: "Nunito Sans Variable", sans-serif;
+  }
+}
+.background-project {
+  background-image: url(/src/Assets/noise.51a05f55.png);
+  background-size: 200px 200px;
+  background-position: 0 0;
+  background-color: rgb(24 24 27 / 1);
+}
+::selection {
+  background: white;
+}
+
+.green-color {
+  color: rgb(51 224 146 / 1);
+}
+
+.b-color {
+  border-color: rgb(39 39 42 / 1);
+}
