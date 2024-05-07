@@ -65,8 +65,8 @@ export default function Projects() {
         "Integrated simple animations to enhance the interactivity of the website.",
       ],
       image: portoApp,
-      vercel: "",
-      github: "https://github.com/aliahmed200/cv-builder",
+      vercel: "https://my-portofolio-one-pearl.vercel.app/",
+      github: "https://github.com/aliahmed200/my-portofolio",
     },
   ];
   const navigate = useNavigate();
