@@ -8,7 +8,7 @@
 
 ### a website in vercel
 
-This section has moved here: [my portofolio](my-portofolio-one-pearl.vercel.app)
+live project: [my-portofolio-one-pearl.vercel.app](my-portofolio-one-pearl.vercel.app)
 
 ## react.js Portofolio 🌟
 
